@@ -11,6 +11,7 @@ namespace gitdemo
         static void Main(string[] args)
         {
             Console.WriteLine("whats good");
+            Console.ReadLine();
         }
     }
 }
